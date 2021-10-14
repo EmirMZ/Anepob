@@ -1,4 +1,13 @@
 (sym_lib_table
+  (lib (name is31fl3731)(type Legacy)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/keyboard_parts.pretty-master/is31fl3731.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/kicad_lib_tmk-master/mkl27z256vfm4.lib)(options "")(descr ""))
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/Type-C.pretty-master/Type-C.lib)(options "")(descr ""))
+  (lib (name ws2812b)(type Legacy)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/WS2812B.pretty-master/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/ProMicroKiCad-master/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name yampad_v2-cache)(type Legacy)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/yampad/yampad_v2-cache.lib)(options "")(descr ""))
+  (lib (name yampad_v2-rescue)(type Legacy)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/yampad/yampad_v2-rescue.lib)(options "")(descr ""))
+  (lib (name Switch)(type Legacy)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/kicad-symbols-master/kicad-symbols-master/Switch.lib)(options "")(descr ""))
 )

@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/random-keyboard-parts.pretty-master)(options "")(descr ""))
+  (lib (name ComponentLibrary)(type KiCad)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/ProMicroKiCad-master/promicro.pretty)(options "")(descr ""))
+  (lib (name ProMicroKiCad-master)(type KiCad)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/ProMicroKiCad-master)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/MX_Alps_Hybrid-master/MX_Only.pretty)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri C:/Users/Zocom/Desktop/THEKEYBOARDPROJECT/ComponentLibrary/MX_Alps_Hybrid-master/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+)
