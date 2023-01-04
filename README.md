@@ -1,5 +1,5 @@
 # Anepob
-This is the first PCB project i have made. I use KiCAD as the PCB design software, and keyboard-layout-editor.com as the starting design. I completed this project around 2021, and since i want to cleanup my repository, i should add some text here.
+This is the first PCB project i have made. I use KiCAD as the PCB design software, and keyboard-layout-editor.com as the starting design. I completed this project around 2021, and since i want to cleanup my repository, i should add some text here. (also there is a copy of the discipad repo from coseyfannitutti as reference)
 
 Here are some pictures of the finish and build process, the PCB is from JLCPCB, and the aluminum plate from pionerlaser.com . if you cant see the images, it is probably not loaded yet, please wait.
 
